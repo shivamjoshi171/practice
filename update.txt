@@ -1,0 +1,13 @@
+1.communication
+2.problem resolving
+3.skill set 
+4.achivement
+5.awards and certification
+6.objective of project 
+	6.1 work done	
+	6.2 results
+---linkedin---
+-brief profile
+-python ml
+-agile devops
+-   
